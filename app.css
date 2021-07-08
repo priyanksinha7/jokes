@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    margin-left: 400px;
+    color: cornflowerblue;
+}
+
+body {
+    align-items: center;
+}
+
+div {
+    margin-left: 450px;
+}
+
+button {
+    background-color: rgb(145, 236, 40);
+    color: darkblue;
+}
